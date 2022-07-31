@@ -1,0 +1,35 @@
+.divs1{
+    margin: 0 ;
+    width: 100% ;
+    height:fit-content;
+   background-color:EAE509;
+  
+   }
+   h1{ margin: 0 auto;
+    padding: 90px 0 30px;
+    font-size: 80px; color: rgb(80, 81, 151);
+}
+p{padding-left: 10px;
+    font-size: 20px;font-weight: bold;padding-bottom: 10px;
+    display: inline;
+}
+img{
+    height: 20px;width: 20px;
+}
+.ame{display: inline;
+padding-right: 60px;}
+.flex{
+    
+}
+.body1{
+height:350px ;width: 70% ;float: left;display:inline ;
+}
+.body2{
+    height: fit-content;width:30%;float: right;}
+h4 {display: block;}
+.bsc{padding-right: 50%;}
+h3{padding-left: 10px;
+    font-size: 20px;font-weight: bold;padding-bottom: 10px;
+    display: inline; padding-right:50%;}
+   
+    .profile{padding: 15px;}
